@@ -1,6 +1,7 @@
-aiogram~=3.6.0
+aiogram==3.5.1
+pydantic==2.10.4
+mistralai>=1.2.0
 aiofiles>=23.2.0
 apscheduler>=3.10.1
 pydub>=0.25.1
-mistralai>=1.2.0
 elevenlabs>=1.56.0
